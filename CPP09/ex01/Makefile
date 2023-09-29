@@ -1,7 +1,7 @@
-NAME = btc
+NAME = RPN
 
 SRCS=	main.cpp \
-		BitCoinExchange.cpp
+		RPN.cpp
 
 
 OBJS=	$(SRCS:.cpp=.o)

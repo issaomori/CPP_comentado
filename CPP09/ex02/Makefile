@@ -1,7 +1,7 @@
-NAME = btc
+NAME = PmergeMe
 
 SRCS=	main.cpp \
-		BitCoinExchange.cpp
+		PmergeMe.cpp
 
 
 OBJS=	$(SRCS:.cpp=.o)
